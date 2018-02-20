@@ -15,11 +15,11 @@ style:
   theme: "original"
 
 # This will help you track who's visiting your website.
-#tracking:
+tracking:
 #  google_analytics: "UA-43729070-14"
 
 # Let people connect & engage with you through social media.
-#social:
+social:
 #  twitter_handle: "MLHacks"
 
 # This is Search Engine Optimization. It'll help your website look better on search.
@@ -40,22 +40,22 @@ event:
     region: "na"    # "na" or "eu"
     color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
 
-  #hero:
-  #  links:
+  hero:
+    links:
   #    - text: "Apply"
   #      my_mlh:
   #        client_id:    "0e2f9fc2921d3ad3e12ae900af630d09382e1b3dc1b5b50de2b01b70ad64dbee"
   #        redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
-  #    - text: "Sponsor"
-  #      href: "mailto:sponsorship@website.com"
+      - text: "Sponsor"
+        href: "mailto:hackthepack2018@gmail.com"
 
   about:
     description: >
       A 24 hour student run hackathon at Northeastern University in Boston, MA. April 7-8 2018.
 
   # Info Sections
-#  info:
-#    sections:
+  info:
+    sections:
 #      - image: "images/image1.png"
 #        title: "LEARN."
 #        description: >
