@@ -45,7 +45,7 @@ event:
       - text: "Apply"
         my_mlh:
           client_id:    "837298bcc013372e89f4af4f8fe2901ed6c2c8d09edcc4743b9cbb08a0b11e83"
-          redirect_uri: "https://hackthepack.github.io/mlh-hackathon-boilerplate/success.html"
+          redirect_uri: "https://hackthepack.github.io/success.html"
       - text: "Sponsor"
         href: "mailto:hackthepack2018@gmail.com"
 
